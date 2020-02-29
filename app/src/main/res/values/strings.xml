@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Muscle App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_muscle_world">Hello Muscle World!</string>
+    <string name="welcome">Welcome to Muscle World!</string>
+    <string name="training">腕立て伏せを始めよう</string>
+    <string name="start">始める</string>
+</resources>
